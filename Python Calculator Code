@@ -1,3 +1,6 @@
+import os
+
+
 def addition():
    os.system('cls' if os.name == 'nt' else 'clear')
    print('Addition')
